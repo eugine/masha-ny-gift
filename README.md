@@ -17,4 +17,4 @@ A ось в цьому місці буде проходити фотосесія
     <img width="45%" src="https://frontpage.com.ua/wp-content/uploads/2023/11/webP/Scandinavian77-705x1058.webp"> 
 </p>
 
-
+<a href="https://frontpage.com.ua/portfolios/scandinavian/">Більше фото</a>
